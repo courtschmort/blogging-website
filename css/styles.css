@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+img {
+  width: 780px;
+  border: .5em solid teal;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-size: 4em;
+  margin: 1em 0 0 0;
+}
+
+h6 {
+  text-transform: uppercase;
+}
+
+.details {
+  color: magenta;
+}
+
+.blog-post {
+  color: grey;
+}
+
+.about {
+  font-family: 'Pacifico', cursive;
+}
+
+h3 {
+  color: teal;
+}
